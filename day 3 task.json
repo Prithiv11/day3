@@ -1,0 +1,51 @@
+{
+    "Basics" : {
+        "name" : "prithiviraj",
+        "address" : "NO.313/2 Nethaji nagar, Near court, Chengalpattu - 603001",
+        "mobile.no" : "7448666897",
+        "Email" : "prithiviraj624@gmail.com"
+    },
+    "Objective" : "Seeking a position to utilize my skills and abilities in your esteemed organization that offers a professional growth while being resourceful, innovative and flexible.",
+    "Educational qualification" : {
+        "BCA" : {
+            "college": "tagore college of arts and science",
+            "university" : "university of madras",
+            "percentage" : 78.52,
+            "year of passing" : 2021
+        },
+        "H.S.C" : {
+            "board" : "stateboard",
+            "school" : "Sri Ramakrishna Mission Vidhyalaya Boys Higher Secondary School, Chengalpattu",
+            "percentage" : 54.75,
+            "year of passing" : 2018
+        },
+        "S.S.L.C" : {
+            "board" : "stateboard",
+            "school" : "Sri Ramakrishna Mission Vidhyalaya Boys Higher Secondary School, Chengalpattu",
+            "percentage" : 84.4,
+            "year of passing" : 2016
+        },
+        "skill sets" : {
+            "1" : "C  , Java , Adobe Photoshop , Automation testing , Selenium and basics of SQL.",
+            "2" : "Thorough knowledge of computer applications."
+        },
+        "personal competencies" : {
+            "1" : "Positive attitude and hard working.",
+            "2" : "Continues and quick learning , skills development and self-motivated.",
+            "3" : "Punctual and discipline"
+        },
+        "Personal information" : {
+            "Father name" : "Ramesh",
+            "gender" : "male",
+            "D.O.B" : "10-06-2000",
+            "marital status" : "single",
+            "nationality" : "indian",
+            "religion" : "hindu",
+            "languages known" : "tamil & english"
+        },
+        "declaration" : "I hereby declare that all the above furnished details are correct to the best of my knowledge and nothing has been concealed"
+        
+
+    }
+ 
+}
